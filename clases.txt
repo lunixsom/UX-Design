@@ -32,3 +32,12 @@ Clase 1
 		- Design Thinking
 
 *********************************************************************
+
+Clase 2 
+
+	- Above the fold (primera impresion de una pagina IMPORTANTE a la hora de diseñar una pagina web)
+	- Ley de los tercios
+		- Ley del Horizonte y de la Mirada
+		- Ley de Pregnancia
+		- Equilibio o Ley de la Balanza
+	
