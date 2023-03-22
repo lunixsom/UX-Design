@@ -27,4 +27,8 @@ Clase 1
 			- Construccion y ejecucion
 			- Sensibilidad para la FORMA y CONTENIDO
 			- Denotacion | Connotacion (conmunicacion casual, lo q la persona interpreta)
-		
+		- ¿Qué es el Diseño UI?
+			- El Diseño de Interfaz de usuario es lo que se ve los colores, las formas, la ubicacion de los elementos, como se relacionan entre si, quizas la parte mas creativa. ES EL COMO SE VE.
+		- Design Thinking
+
+*********************************************************************
