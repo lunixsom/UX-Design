@@ -40,4 +40,6 @@ Clase 2
 		- Ley del Horizonte y de la Mirada
 		- Ley de Pregnancia
 		- Equilibio o Ley de la Balanza
-	
+		- Ley de cierre
+		
+*********************************************************************
