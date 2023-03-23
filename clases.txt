@@ -43,3 +43,8 @@ Clase 2
 		- Ley de cierre
 		
 *********************************************************************
+
+Clase 3
+
+				- Graficos Vectorial vs Mapa de Bits
+( 48:30 min a FIN)	- Photoshop
