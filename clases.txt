@@ -48,3 +48,20 @@ Clase 3
 
 				- Graficos Vectorial vs Mapa de Bits
 ( 48:30 min a FIN)	- Photoshop
+
+
+*********************************************************************
+
+Clase 4
+
+	- Research y Beanchmarking
+		- ¿Que és el UX Research?
+			- Es la investigacion de la experiencia de usuario.
+			- ¿Quien es mi usuario? ¿Qué problema o necesidad voy 
+a resolver?
+		- ¿Qué es un INSIGHT?
+			- No es mas que la interpretacion de todos los datos que obtuvimos
+		- COMIENZO PROYECTO FINAL  
+			- Quién es mi usuario
+			- Cuál es su problema
+			- Qué solucion puedo ofrecerle	
