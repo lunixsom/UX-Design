@@ -75,6 +75,8 @@ Entregar en grupo figma como el que hizo tutor (pedidos despues)
 
 Clase 5
 	
-	- User Persona
-		- Crear una User Persona se va a tratar de estereotipar, de juzgar		- Proto Persona es el estado anterior que debe validarse por medio de entrevistas para ser User Persona.
+		- User Persona
+		- Crear una User Persona se va a tratar de estereotipar, de juzgar		
+		- Proto Persona es el estado anterior que debe validarse por medio de entrevistas para ser User Persona.
+(47 min a )	- Mapa de Empatia
 	 	
