@@ -90,3 +90,11 @@ Clase 6
 	
 			- Entrevistas Cualitativas
 				- Tipos de Entrevistas (Semiestructuradas la q mas vamos a utilizar)
+				- TAREA: 3 Diapositivas mas en FIGMA (preguntas, informe y user persona)
+
+
+TAREAS (fijar ejemplo tutor figma):
+
+	- diapositivas de la clase 1 (usuario, problema, objetivo, solucion y su respectiva validacion y Benchmarking)
+	- 2 Protopersonas y el mapa empatia
+	- Las entrevistas y la User Persona
