@@ -97,8 +97,10 @@ TAREAS (fijar ejemplo tutor figma):
 
 	- diapositivas de la clase 1 (usuario, problema, objetivo, solucion y su respectiva validacion y Benchmarking)
 	- 2 Protopersonas y el mapa empatia
-	- Las entrevistas y la User Persona
+	- Las 5 entrevistas y la User Persona
 
 *********************************************************************
 
 Clase 7
+
+(13 min a )	- POV y MVP
