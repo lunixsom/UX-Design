@@ -103,7 +103,8 @@ TAREAS (fijar ejemplo tutor figma):
 
 Clase 7
 
-(13 min) - POV
+(13 min) - POV (Punto de Vista)
 (30 min) - Storytelling
 (40 min) - Storyboard
-(50:30 min) - MVP
+		- https://www.storyboardthat.com/
+(50:30 min) - MVP (Producto Minimo Viable)
