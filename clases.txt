@@ -116,6 +116,17 @@ Tarea: POV , storytelling, storyboard, MVP
 
 Clase 8
 
+	- Arquitectura de la Informacion
+		- Mapa de Sitio 
+			- https://whimsical.com/
+			- Hipotesis mapa de sitio
+			- card sorting (optimal workshop) - ayuda a validar Hipotesis	
+
+TAREA: 
+	1° Hacer Hipotesis del mapa del sitio
+	2° card sorting	
+	3° Mapa del sitio Final validado con evaluacion card sorting 	
+
 
 
 
