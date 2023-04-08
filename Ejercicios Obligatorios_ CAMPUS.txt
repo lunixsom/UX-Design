@@ -1,0 +1,6 @@
+
+- Introducción al diseño e imágenes (Ejercicio obligatorio: Introduccion) - 19/3
+- Vectorial/Mapa de Bits y Research/Bench (Ejercicio obligatorio: Unidad 2) - 26/3
+- User persona y entrevistas (Ejercicio obligatorio: User Persona y entrevistas) - 2/4
+- POV/MVP y Arquitectura (Ejercicio obligatorio:POV/MOV) - 9/4
+
