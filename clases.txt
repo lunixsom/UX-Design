@@ -132,5 +132,15 @@ TAREA:
 
 Clase 9
 
-(7 min)	- User Flow
-		
+(7 min)		- User Flow 
+			- Es la ruta que sigue un usuario en un sitio web o app para completar una tarea.
+			- 1° Task Flow: debo definir los pasos que necesito para realizar la tarea.
+			- 2° Happy Path: el camino sin errores a lo que luego le agregamos
+			- 3° User Flow: al happy path le agrego todas las posibilidades de error con su solucion.
+
+TAREA: 
+	Hacer un task flow y user flow de la tarea mas importante de mi app
+
+*********************************************************************
+
+Clase 10		
