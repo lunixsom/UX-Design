@@ -139,7 +139,7 @@ Clase 9
 			- 3° User Flow: al happy path le agrego todas las posibilidades de error con su solucion.
 
 TAREA: 
-	Hacer un task flow y user flow de la tarea mas importante de mi app
+	Hacer un task flow y user flow de la tarea mas importante de mi app.
 
 *********************************************************************
 
