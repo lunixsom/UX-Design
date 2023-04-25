@@ -3,4 +3,8 @@
 - Vectorial/Mapa de Bits y Research/Bench (Ejercicio obligatorio: Unidad 2) - 26/3
 - User persona y entrevistas (Ejercicio obligatorio: User Persona y entrevistas) - 2/4
 - POV/MVP y Arquitectura (Ejercicio obligatorio:POV/MOV) - 9/4
+- User flow & Repaso e Integracion (Ejercicio obligatorio:User flow) - 16/4
+- Pre-entrega y Prototipo (Ejercicio obligatorio:Prototipo) - 23/4
+- Patrones de diseño y prototipo funcional (Ejercicio obligatorio:Patrones de diseño y Prototipo funcional) - 30/10
+- Pruebas de Usabilidad y Atomic Design (Ejercicio obligatorio:Pruebas de Usabilidad y Atomic Design) - 7/5
 
