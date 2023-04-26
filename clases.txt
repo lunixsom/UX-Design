@@ -144,3 +144,7 @@ TAREA:
 *********************************************************************
 
 Clase 10		
+
+	- Completaron formulario pre-entrega
+	- La asistencia es por el formulario como siempre.
+	- Respondio dudas
