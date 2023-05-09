@@ -158,3 +158,23 @@ Clase 11
 *********************************************************************
 
 Clase 12
+
+	- Empezamos con PROTOTIPOS y WIREFRAMES
+		- ¿Que es un Prototipo? 
+		* Es una forma de representacion de lo que seria nuestra app final.
+		* Es una tecnica que nos va permitir materializar nuestras ideas y soluciones.
+	- Tipos de Fidelidad de prototipo
+		* Baja (Lean UX): es un boceto.
+		* Media: Esta la navegacion y se empieza a entender un poco mas.
+		* Alta: El objetivo es parecerse lo mas posible a nuestra aplicacion real.
+	- Usamos WIREFRAME 
+
+
+Tarea:
+	Con el happy path:
+		1º - Cada integrante debe realizar un prototipo fidelidad baja en papel.
+		2º - Luego de comparar los prototipos hacemos el Wireframe Digital 
+
+*********************************************************************
+
+Clase 13
