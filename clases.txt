@@ -178,3 +178,6 @@ Tarea:
 *********************************************************************
 
 Clase 13
+
+	- Patrones de diseño
+	- Patrones de lectura
