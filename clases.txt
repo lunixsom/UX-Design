@@ -181,3 +181,5 @@ Clase 13
 
 	- Patrones de diseño
 	- Patrones de lectura
+	- Patrones de navegacion
+	- Patrones de interaccion
