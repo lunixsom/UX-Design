@@ -183,3 +183,14 @@ Clase 13
 	- Patrones de lectura
 	- Patrones de navegacion
 	- Patrones de interaccion
+
+Tarea:
+
+	Con el happy path:
+		1° Aplicar patrones
+*********************************************************************
+
+Clase 14
+
+	- Prototipo Funcional: simula nuestro User Flow, simula el flujo de usuario que planteamos.
+	- Para hacer prototipo funcional necesito que mi app este en fidelidad media
