@@ -207,3 +207,13 @@ Tarea:
 
 Clase 15
 
+	- Pruebas de USABILIDAD
+		* ¿Para que sirven? : validar si las tareas son posibles de hacer y encontrar problemas menores de usabilidad
+		* ¿Para que no sirven? : nos dicen que no funciono no el por que.
+		* No son TESTs A/B
+		* ¿que son los TESTS A/B? : son pruebas que nos ayudan a decidir cuando estamos trabados entre dos opciones.
+		* A/B TEST se hace con una gran masa de individuos y las pruebas de usabilidad dicen si se puede usar o no se pude usar.
+		* ¿Cuando se llevan a cabo las pruebas de usabilidad?
+			- A penas tengan el prototipo funcional se las aplican.
+	- Tipos de Pruebas de USABILIDAD:
+		* remotas, presenciales y presenciales en contexto de uso.
