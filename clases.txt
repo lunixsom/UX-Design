@@ -188,9 +188,22 @@ Tarea:
 
 	Con el happy path:
 		1° Aplicar patrones
+
 *********************************************************************
 
 Clase 14
 
 	- Prototipo Funcional: simula nuestro User Flow, simula el flujo de usuario que planteamos.
 	- Para hacer prototipo funcional necesito que mi app este en fidelidad media
+	- Pruebas de USABILIDAD
+		* Metricas de Eficiencia y Eficacia
+
+Tarea: 
+
+	Ponerle funcionalidad al prototipo
+	Metricas de Eficiencia, Eficacia y Satisfaccion 
+
+*********************************************************************
+
+Clase 15
+
