@@ -227,3 +227,10 @@ Clase 16
 		* Armar componentes en FIGMA
 		* AutoLayout
 
+	- Ver https://www.behance.net/Enede
+	- ver foro alfa (luciano)
+
+Tarea:
+
+	- Trabajar con atomic design
+		* Usando moleculas, atomos, organismos.	
