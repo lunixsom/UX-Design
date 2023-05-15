@@ -217,3 +217,13 @@ Clase 15
 			- A penas tengan el prototipo funcional se las aplican.
 	- Tipos de Pruebas de USABILIDAD:
 		* remotas, presenciales y presenciales en contexto de uso.
+
+*********************************************************************
+
+Clase 16
+
+	- Atomic Design
+		* Es una forma de nomenclar, nombrar los elementos. 
+		* Armar componentes en FIGMA
+		* AutoLayout
+
