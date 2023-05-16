@@ -218,6 +218,11 @@ Clase 15
 	- Tipos de Pruebas de USABILIDAD:
 		* remotas, presenciales y presenciales en contexto de uso.
 
+Tarea:
+
+	- Aplicar pruebas de usabilidad
+	- Crear Slides
+
 *********************************************************************
 
 Clase 16
