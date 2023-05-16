@@ -241,3 +241,9 @@ Tarea:
 
 	- Trabajar con atomic design
 		* Usando moleculas, atomos, organismos.	
+
+*********************************************************************
+
+Clase 17
+
+	- Repaso Figma
