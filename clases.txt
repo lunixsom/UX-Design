@@ -235,6 +235,7 @@ Clase 16
 	- Ver https://www.behance.net/Enede
 	- ver foro alfa (luciano)
 	- Crear componentes padres e instancias
+	- AUTOLAYOUT
 
 Tarea:
 
