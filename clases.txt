@@ -247,3 +247,7 @@ Tarea:
 Clase 17
 
 	- Repaso Figma
+	- Como utilizar Figma
+	- Comunidad
+	- Plugins 
+
