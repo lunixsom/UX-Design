@@ -262,3 +262,5 @@ Tarea:
 Clase 18
 
 	- Grillas (12 web - 6 mobile)
+	- Tener cuidado con los espacios vacios y margenes
+	- 1° diseñamos los ELEMENTOS y luego aplico las GRILLAs
