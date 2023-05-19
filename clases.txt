@@ -264,3 +264,8 @@ Clase 18
 	- Grillas (12 web - 6 mobile)
 	- Tener cuidado con los espacios vacios y margenes
 	- 1° diseñamos los ELEMENTOS y luego aplico las GRILLAs
+	- Tener muy en cuenta el TAMAÑO de ESPACIO CLICKEABLE
+
+Tarea:
+
+	- Acomodar los elementos a la grilla, tratar de darle un poco de orden. (1 sola grilla para todas las pantallas solo excepciones con justificacion (mapa, scroll horizontal))
