@@ -280,4 +280,6 @@ Clase 19
 
 	- Estandares y Guidelines
 	- Leyes UX
+		* https://welcometoux.com/categoria/leyes-ux/
+	- Guidelines (lineamientos, pautas de diseño, recomendaciones)
 
