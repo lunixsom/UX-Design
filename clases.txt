@@ -292,3 +292,13 @@ Tarea:
 	- Ir identificando las leyes, pautas, los lineamientos que esten apicando en su diseño.
 	- al final de la entrega hay que armar un informe sobre el tipo de diseño y guidelines que usamos.
 		* que guidelines usamos, que leyes usamos, en que se basaron, justificacion de porque tomamos esas decisiones.
+
+*********************************************************************
+
+Clase 20
+
+	- Illustrator y Moodbard (moodbard es como pinterest)
+		* ¿Para que sirve Illustrator?
+				Para trabajar vectores: crear ilustraciones, texto, archivos imprimibles, incluso paginas web
+		
+		* Manejo de la pluma: https://bezier.method.ac/
