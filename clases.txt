@@ -302,3 +302,9 @@ Clase 20
 				Para trabajar vectores: crear ilustraciones, texto, archivos imprimibles, incluso paginas web
 		
 		* Manejo de la pluma: https://bezier.method.ac/
+	- Moodboard
+		* Es un collage de imagenes donde vamos a tratar de armar un panel de inspiracion, una hoja de inspiracion.
+
+Tarea: 
+	- Crear un Moodboard, hay que escribir cuales fueron las 3 palabras(disparadores en un slide) claves. Tambien agregar en el moodbard los tres colores principales a utilizar que puedo sacarlos con el cuentagotas de las imagenes del moodboard o de una imagen de la competencia.
+	
