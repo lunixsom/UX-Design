@@ -7,4 +7,8 @@
 - Pre-entrega y Prototipo (Ejercicio obligatorio:Prototipo) - 23/4
 - Patrones de diseño y prototipo funcional (Ejercicio obligatorio:Patrones de diseño y Prototipo funcional) - 30/10
 - Pruebas de Usabilidad y Atomic Design (Ejercicio obligatorio:Pruebas de Usabilidad y Atomic Design) - 7/5
+- Practica Figma y Grillas (Practica Figma y Grillas) - 14/5
+- Estandares/Guidelines - Illustrator - Moodboard (Estandares/Guidelines - Illustrator y Moodboard) - 21/5
+- Color y tipografia (Color y Topografia) - 28/5
+- UI Kit / Alta fidelidad y Logo (UI Kit y Logo) - 4/6
 
