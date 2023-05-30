@@ -222,6 +222,11 @@ Tarea:
 
 	- Aplicar pruebas de usabilidad
 	- Crear Slides
+		* Escenario Hipotetico
+		* Listado de Tareas, Preguntas(para antes y despues de las pruebas) Intro y cierre.
+		* Tabla Metricas y un apartado chico de: Registro de problemas detectados (Observaciones) 
+		* Informe de conclusiones (uno sobre todas las pruebas)
+			- Que funciono, que no funciono y recomendaciones generales.
 
 *********************************************************************
 
