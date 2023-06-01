@@ -1,10 +1,15 @@
 Ruth
 
+En Registrarse sugiere poner en pantalla principal un boton que diga iniciar sesion
+
+Estadisticas deberia estar en consultas
+
+talleres sugeridos deberia estar en consultas
 
 **********************************************
 Rebeca
 
-
+Confunde que Cargar datos de reparacion este en la seccion "Consultas". 
 
 **********************************************
 Sebastian
