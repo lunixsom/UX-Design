@@ -10,5 +10,6 @@
 - Practica Figma y Grillas (Practica Figma y Grillas) - 14/5
 - Estandares/Guidelines - Illustrator - Moodboard (Estandares/Guidelines - Illustrator y Moodboard) - 21/5
 - Color y tipografia (Color y Topografia) - 28/5
-- UI Kit / Alta fidelidad y Logo (UI Kit y Logo) - 4/6
+- UI Kit / Alta fidelidad y Logo (UI Kit y Logo) - 4/6 - OK
+
 
